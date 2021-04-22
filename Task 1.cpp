@@ -8,5 +8,4 @@ cout<<"Size of int: 4 bytes";
 cout<<"Size of float: 4 bytes";
 cout<<"Size of double:8 bytes";
 return 0;	
- 
 }
